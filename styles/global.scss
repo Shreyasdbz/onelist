@@ -1,0 +1,15 @@
+/** @format */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800;900&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+$color-primary: #4c83ff;
+$color-secondary: #2afadf;
+$color-tertiary: #f761a1;
+$color-gray-dark: #3f3f3f;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  //   font-family: 'Outfit', sans-serif;
+}
